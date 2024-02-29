@@ -1,0 +1,19 @@
+@import "../utils/vars";
+
+.container {
+  width: 100%;
+  max-width: $maxWidth;
+  margin: 0 auto;
+  padding: 0 $containerPadding;
+  min-height: 100vh;
+  @media screen and (max-width: 767px) {
+    min-height: auto;
+  }
+}
+
+h1 {
+  font-size: 100px;
+  @media screen and (max-width: 767px) {
+    font-size: 30px;
+  }
+}

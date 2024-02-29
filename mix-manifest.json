@@ -1,0 +1,12 @@
+{
+    "/dist/js/app.js": "/dist/js/app.js",
+    "/src/css/styles.css": "/src/css/styles.css",
+    "/dist/js/libs.js": "/dist/js/libs.js",
+    "/dist/css/styles.css": "/dist/css/styles.css",
+    "/dist/fonts/.DS_Store": "/dist/fonts/.DS_Store",
+    "/dist/fonts/IdealGothic-Bold.woff": "/dist/fonts/IdealGothic-Bold.woff",
+    "/dist/fonts/IdealGothic-Bold.woff2": "/dist/fonts/IdealGothic-Bold.woff2",
+    "/dist/index.html": "/dist/index.html",
+    "/dist/mail.php": "/dist/mail.php",
+    "/dist/modx-mail.php": "/dist/modx-mail.php"
+}
